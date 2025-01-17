@@ -1,0 +1,68 @@
+[
+  {
+    "firstname": "gunn",
+    "lastname": "khurana",
+    "password": "231",
+    "mobile": "8930065035",
+    "birthdate": "2024-12-13",
+    "gender": "Female",
+    "address": "uwhidw",
+    "country": "India",
+    "pincode": "132103"
+  },
+  {
+    "firstname": "gunn",
+    "lastname": "khurana",
+    "password": "gunn",
+    "mobile": "8930065035",
+    "gender": "Female",
+    "birthdate": "2024-12-10",
+    "address": "hsiwhsiw",
+    "country": "India",
+    "pincode": "132103"
+  },
+  {
+    "firstname": "gunn",
+    "lastname": "khurana",
+    "password": "q12",
+    "mobile": "780982068792",
+    "gender": "Female",
+    "birthdate": "2005-09-22",
+    "address": "hu",
+    "country": "India",
+    "pincode": "232"
+  },
+  {
+    "firstname": "ADITI",
+    "lastname": "BANSAL",
+    "password": "Aditi12",
+    "mobile": "23418675648",
+    "gender": "Female",
+    "birthdate": "2005-07-21",
+    "address": "31 modi enclave\r\nBarewal road",
+    "country": "India",
+    "pincode": "141012"
+  },
+  {
+    "firstname": "ADITI",
+    "lastname": "BANSAL",
+    "password": "ADITI12",
+    "mobile": "6287678547",
+    "gender": "Female",
+    "birthdate": "2005-07-21",
+    "address": "31 modi enclave\\r\\nBarewal roaD",
+    "country": "India",
+    "pincode": "151101"
+  },
+  {
+    "firstname": "naman",
+    "lastname": "jain",
+    "password": "namanjain",
+    "mobile": "9876543210",
+    "gender": "Male",
+    "birthdate": "2004-11-03",
+    "address": "brs nagar,ludhiana",
+    "country": "India",
+    "pincode": "141011"
+  }
+]
